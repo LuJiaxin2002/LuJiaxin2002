@@ -8,3 +8,4 @@
 LuJiaxin2002/LuJiaxin2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+1. 项目实训——车牌识别
